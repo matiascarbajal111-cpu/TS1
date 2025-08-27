@@ -2,7 +2,7 @@
 """
 Created on Wed Aug 13 18:36:22 2025
 
-@author: Augusto
+@author: Matias Carbajal
 """
 from scipy import signal
 import numpy as np
